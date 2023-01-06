@@ -1,0 +1,14 @@
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.exe
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.deps.json
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.runtimeconfig.json
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.runtimeconfig.dev.json
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.dll
+C:\XXXX\CSharpNotes\bin\Debug\netcoreapp3.1\CSharpNotes.pdb
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.csproj.AssemblyReference.cache
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.AssemblyInfoInputs.cache
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.AssemblyInfo.cs
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.csproj.CoreCompileInputs.cache
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.dll
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.pdb
+C:\XXXX\CSharpNotes\obj\Debug\netcoreapp3.1\CSharpNotes.genruntimeconfig.cache
